@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BackgroundVideo"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "lets you add a background video to iOS app views. "
 
   # This description is used to generate tags and improve search results.
